@@ -1,0 +1,7 @@
+I did not discuss this project with anyone, this was solely done by myself. I did not use an AI tools for this project. I utilized the course work as well as some other public sources to understand better how naive bayes works.
+I opted not to use the existing MultinomialNB library but attempted to do the behind the scenes myself such that I can get a better understanding of how this algorithm works.
+ Some of the sources I utilized are:
+ - https://towardsdatascience.com/multinomial-naive-bayes-classifier-c861311caff9/ 
+ - https://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html
+ - https://www.geeksforgeeks.org/machine-learning/multinomial-naive-bayes/
+ - https://www.geeksforgeeks.org/machine-learning/naive-bayes-classifiers/ 
